@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, 👋
+## I am Samuel, junior self-taught web developer. 
+My goal is to become full stack web developer and I am using this GitHub profile to document my journey I am taking to reach this goal. All the repositories you can find here are projects I was working on to improve my web dev skills.
 
 <!--
 **samueldusek/samueldusek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
