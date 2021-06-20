@@ -10,7 +10,7 @@ Courses I went through:
 - [The Web Developer Bootcamp 2021](https://www.udemy.com/share/101W9CAEYZeVhUQn8B/) 100%
 
 Courses I am currently going through:
-- [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/share/101WbGAEYZeVhUQn8B/) 34%
+- [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/share/101WbGAEYZeVhUQn8B/) 48%
 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/share/1013hoAEYZeVhUQn8B) 60%
 
 ## The tech stack
