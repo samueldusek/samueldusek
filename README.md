@@ -18,7 +18,10 @@ Courses I went through:
 
 Courses I am currently going through:
 
-- [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/share/101WbGAEYZeVhUQn8B/) 62%
+- [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/share/101WbGAEYZeVhUQn8B/) 70%
+
+Courses on my list:
+
 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/share/1013hoAEYZeVhUQn8B) 60%
 - [MongoDB - The Complete Developer's Guide 2021](https://www.udemy.com/share/101WAW2@Pm1KbF5YQlMIdEVCO0hn/) 0%
 
