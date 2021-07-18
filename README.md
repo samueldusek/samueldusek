@@ -18,7 +18,7 @@ Courses I went through:
 
 Courses I am currently going through:
 
-- [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/share/101WbGAEYZeVhUQn8B/) 70%
+- [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/share/101WbGAEYZeVhUQn8B/) 73%
 
 Courses on my list:
 
