@@ -15,6 +15,7 @@ This is my biggest project so far. It is contest that will run in November 2021.
 Courses I went through:
 
 - [The Web Developer Bootcamp 2021](https://www.udemy.com/share/101W9CAEYZeVhUQn8B/) 100%
+- [MERN Stack with Blog Project](https://www.udemy.com/share/104KrE2@Pm5KfUtjc1QLcU5EBHV0RD1uY1diY1o=/) 100%
 
 Courses I am currently going through:
 
