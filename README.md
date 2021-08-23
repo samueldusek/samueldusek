@@ -77,8 +77,8 @@ Courses on my list:
   /></a>
 </p>
 
-<a href="https://github.com/samueldusek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldusek&layout=compact?theme=dark" />
+<a href="https://github.com/samueldusek" style="display: flex; justify-content: center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldusek&layout=compact?theme=dark" />
 </a>
 
 ## My goals for 2021 :dart:
