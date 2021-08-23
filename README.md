@@ -77,6 +77,8 @@ Courses on my list:
   /></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldusek&layout=compact?theme=dark)](https://github.com/samueldusek)
+
 ## My goals for 2021 :dart:
 
 - Get a job as a web developer
