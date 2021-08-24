@@ -20,7 +20,7 @@ Courses I went through:
 
 Courses I am currently going through:
 
-- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/share/101Wby2@Pm1KbF5YQlMIdEVCOEtnVA==/) 0%
+- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/share/101Wby2@Pm1KbF5YQlMIdEVCOEtnVA==/) 15%
 
 Courses on my list:
 
