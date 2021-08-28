@@ -17,7 +17,7 @@ My goal is to become full stack web developer and I am using this GitHub profile
       alt="Twitter"
     />
   </a>
-  <a href="instagram.com/dusek.samuel" target="_blank">
+  <a href="https://www.instagram.com/dusek.samuel/" target="_blank">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
