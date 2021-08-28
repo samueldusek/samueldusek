@@ -1,8 +1,35 @@
-## Hi, 👋
+<h3 align="center">
+Hi, I am Samuel. 👋
+</h3>
 
-## I am Samuel, self-taught junior web developer.
+<h2 align="center">
+I am self-taught junior web developer currently focusing on React.
+</h2>
 
 My goal is to become full stack web developer and I am using this GitHub profile to document my journey I am taking to reach this goal. All the repositories you can find here are projects I was working on to improve my web dev skills.
+
+## Let's connect!
+
+<p align="left">
+  <a href="https://twitter.com/dusek_samuel" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      alt="Twitter"
+    />
+  </a>
+  <a href="instagram.com/dusek.samuel" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+    <a href="https://samueldusek.hashnode.dev/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+</p>
 
 ## Currently working on :wrench: :hammer:
 
@@ -20,7 +47,7 @@ Courses I went through:
 
 Courses I am currently going through:
 
-- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/share/101Wby2@Pm1KbF5YQlMIdEVCOEtnVA==/) 35%
+- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/share/101Wby2@Pm1KbF5YQlMIdEVCOEtnVA==/) 40%
 
 Courses on my list:
 
