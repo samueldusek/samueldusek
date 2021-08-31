@@ -49,10 +49,13 @@ Courses I am currently going through:
 
 - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/share/101Wby2@Pm1KbF5YQlMIdEVCOEtnVA==/) 55%
 
+- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/share/101Wby2@Pm1KbF5YQlMIdEVCOEtnVA==/)
+
 Courses on my list:
 
 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/share/1013hoAEYZeVhUQn8B) 60%
-- [MongoDB - The Complete Developer's Guide 2021](https://www.udemy.com/share/101WAW2@Pm1KbF5YQlMIdEVCO0hn/) 0%
+
+- [Next.js & React - The Complete Guide (incl. Two Paths!)](https://www.udemy.com/share/104coM3@AUen-QPxyAHM8BdjG3lDAq4z8c-4C526RyYyiTGSFH4NhShVjO4wujh3M_pqaRXBPA==/) 20%
 
 ## My tech stack
 
