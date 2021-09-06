@@ -49,7 +49,7 @@ Courses I am currently going through:
 
 - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/share/101Wby2@Pm1KbF5YQlMIdEVCOEtnVA==/) 55%
 
-- [Next.js & React - The Complete Guide (incl. Two Paths!)](https://www.udemy.com/share/104coM3@AUen-QPxyAHM8BdjG3lDAq4z8c-4C526RyYyiTGSFH4NhShVjO4wujh3M_pqaRXBPA==/) 50%
+- [Next.js & React - The Complete Guide (incl. Two Paths!)](https://www.udemy.com/share/104coM3@AUen-QPxyAHM8BdjG3lDAq4z8c-4C526RyYyiTGSFH4NhShVjO4wujh3M_pqaRXBPA==/) 60%
 
 Courses on my list:
 
