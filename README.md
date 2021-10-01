@@ -3,14 +3,14 @@ Hi, I am Samuel. 👋
 </h3>
 
 <h2 align="center">
-I am self-taught junior web developer currently focusing on React.
+I am self-taught junior front-end currently focusing on React.
 </h2>
 
 My goal is to become full stack web developer and I am using this GitHub profile to document my journey I am taking to reach this goal. All the repositories you can find here are projects I was working on to improve my web dev skills.
 
 ## Let's connect!
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/dusek_samuel" target="_blank">
     <img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
@@ -20,12 +20,6 @@ My goal is to become full stack web developer and I am using this GitHub profile
   <a href="https://www.instagram.com/dusek.samuel/" target="_blank">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-    <a href="https://samueldusek.hashnode.dev/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
       alt="Instagram"
     />
   </a>
@@ -47,7 +41,7 @@ Courses I went through:
 
 Courses I am currently going through:
 
-- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/share/101Wby2@Pm1KbF5YQlMIdEVCOEtnVA==/) 55%
+- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/share/101Wby2@Pm1KbF5YQlMIdEVCOEtnVA==/) 60%
 
 - [Next.js & React - The Complete Guide (incl. Two Paths!)](https://www.udemy.com/share/104coM3@AUen-QPxyAHM8BdjG3lDAq4z8c-4C526RyYyiTGSFH4NhShVjO4wujh3M_pqaRXBPA==/) 60%
 
@@ -57,37 +51,7 @@ Courses on my list:
 
 ## My tech stack
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"
-    />
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"
-    />
-  </a>
-
-  <a href="https://www.javascript.com/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"
-  /></a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-      alt="nodejs"
-  /></a>
+<p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
@@ -97,6 +61,28 @@ Courses on my list:
     <img
       src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"
+  /></a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"
+    />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"
+  /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"
+    />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+      alt="nodejs"
   /></a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
@@ -111,7 +97,8 @@ Courses on my list:
 
 ## My goals for 2021 :dart:
 
-- Get a job as a web developer
+- Get a job as a web developer ✅
+  - I am very happy about getting my first job as a junior front-end developer at [reservio.com](https://www.reservio.com/)
 - Finish and launch my biggest project - [The discgolf hole of the year](https://github.com/samueldusek/hole-of-the-year)
 - Finish all the courses mentioned above
 - Make my first open source contribution
