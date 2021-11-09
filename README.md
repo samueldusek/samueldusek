@@ -29,6 +29,8 @@ My goal is to become full stack web developer and I am using this GitHub profile
 
 - [The discgolf hole of the year](https://github.com/samueldusek/hole-of-the-year)
 
+### 🚨 It is live! 🚨 The competition is running right now and you can find it here: [www.jamkaroku.cz](https://www.jamkaroku.cz/)
+
 This is my biggest project so far. It is contest that will run in November 2021. The goal of this contest is to choose the most beutiful discgolf hole currently located in the Czech Republic. I am building it using the NodeJS (Express) and MongoDB (Mongoose).
 
 ## My learning journey :mortar_board:
@@ -99,9 +101,12 @@ Courses on my list:
 
 - Get a job as a web developer ✅
   - I am very happy about getting my first job as a junior front-end developer at [reservio.com](https://www.reservio.com/)
-- Finish and launch my biggest project - [The discgolf hole of the year](https://github.com/samueldusek/hole-of-the-year)
+- Finish and launch my biggest project ✅
+  - [The discgolf hole of the year](https://github.com/samueldusek/hole-of-the-year)
+  - 🚨 It is live! 🚨 The competition is live right now and you can find it here: [www.jamkaroku.cz](https://www.jamkaroku.cz/)
 - Finish all the courses mentioned above
-- Make my first open source contribution
+- Make my first open source contribution ✅
+  - I managed to join [cesko.digital](https://github.com/cesko-digital) and I am currently part of the team working on the [jehlomat](https://github.com/cesko-digital/jehlomat) application
 
 ## My repositories :open_file_folder:
 
