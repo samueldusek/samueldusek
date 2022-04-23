@@ -79,7 +79,7 @@ You can follow me on Twitter where I mostly share the latest news from the front
 Courses I am working on right now:
 
 - 💻 [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/share/101X5s3@04i44WMvPTATTtteX61aTrrf1rG01ILp_rB6b3g8Xt6tkvt0B0Pb-IL8Wo0NAkUxZQ==/) (10%)
-- 🐳 [Docker & Kubernetes: The Practical Guide](https://www.udemy.com/share/103Ia03@QVmHfTMz9Wl1wgbDEA1B9xnwpokpTLPwAuv_fz-BU5hFel_UoUSeh0ZYw4MfmJ7NHQ==/) (25%)
+- 🐳 [Docker & Kubernetes: The Practical Guide](https://www.udemy.com/share/103Ia03@QVmHfTMz9Wl1wgbDEA1B9xnwpokpTLPwAuv_fz-BU5hFel_UoUSeh0ZYw4MfmJ7NHQ==/) (35%)
 
 Courses I went through in 2021:
 
