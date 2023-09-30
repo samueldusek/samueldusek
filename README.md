@@ -3,10 +3,10 @@ Hi, I am Samuel. 👋
 </h3>
 
 <h2 align="center">
-I am frontend developer with main focus on React, React Native, TypeScript and Nextjs.
+I am frontend developer. My main focus is on React, TypeScript and Nextjs, but I do a bit of PHP as well.
 </h2>
 
-👨‍💻 I work at [reservio.com](https://www.reservio.com/), where I develop and maintain mobile and web applications.
+👨‍💻 I work at [reservio.com](https://www.reservio.com/), where I develop and maintain web and mobile applications.
 
 ## 🛠 My tech stack
 
@@ -57,7 +57,14 @@ I am frontend developer with main focus on React, React Native, TypeScript and N
     <img
       src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"
-  /></a>
+    />
+  </a>
+  <a href="https://www.php.net//" target="_blank">
+    <img
+      src="https://img.shields.io/badge/php-787CB5?style=for-the-badge&logo=php&logoColor=white"
+      alt="mongodb"
+    />
+  </a>
 </p>
 
 ## 📩 Let's connect!
@@ -67,6 +74,12 @@ I am frontend developer with main focus on React, React Native, TypeScript and N
     <img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
       alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/samueldusek/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
     />
   </a>
 </p>
