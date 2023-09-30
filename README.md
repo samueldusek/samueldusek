@@ -6,7 +6,9 @@ Hi, I am Samuel. 👋
 I am frontend developer. My main focus is on React, TypeScript and Nextjs, but I do a bit of PHP as well.
 </p>
 
-👨‍💻 I work at [reservio.com](https://www.reservio.com/), where I develop and maintain web and mobile applications.
+<p align="center">
+I work at [reservio.com](https://www.reservio.com/), where I develop and maintain web and mobile applications.
+</p>
 
 ## 🛠 My tech stack
 
