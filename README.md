@@ -1,10 +1,10 @@
-<h3 align="center">
+<p align="center">
 Hi, I am Samuel. 👋
-</h3>
+</p>
 
-<h2 align="center">
+<p align="center">
 I am frontend developer. My main focus is on React, TypeScript and Nextjs, but I do a bit of PHP as well.
-</h2>
+</p>
 
 👨‍💻 I work at [reservio.com](https://www.reservio.com/), where I develop and maintain web and mobile applications.
 
