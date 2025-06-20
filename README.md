@@ -3,11 +3,7 @@ Hi, I am Samuel. 👋
 </p>
 
 <p align="center">
-I am frontend developer. My main focus is on React, TypeScript and Nextjs, but I do a bit of PHP as well.
-</p>
-
-<p align="center">
-I work at <a href="https://www.reservio.com/" target="_blank">reservio.com</a>, where I develop and maintain web and mobile applications.
+I am frontend developer. My main focus is on React & TypeScript.
 </p>
 
 ## 🛠 My tech stack
@@ -72,12 +68,6 @@ I work at <a href="https://www.reservio.com/" target="_blank">reservio.com</a>, 
 ## 📩 Let's connect!
 
 <p align="center">
-  <a href="https://twitter.com/samuel_dusek" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-      alt="Twitter"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/samueldusek/" target="_blank">
     <img
       src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
